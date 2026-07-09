@@ -1,4 +1,4 @@
- <img src="assets/banner/github-header-banner.png" width ="100%">
+ <img src="assets/banner/github-banner.png" width ="100%">
 <br />
 
 # Hey,[I'm Brayan Yesca!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl2cHB1Yjc4YXc1cDg0bG5tdWRrd3dtcHNnN2dwbHRzbWVpazltYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U6M4L81SA1rVdfr8ZK/giphy.gif" width="100px">
