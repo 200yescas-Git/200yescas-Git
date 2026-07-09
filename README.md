@@ -90,7 +90,7 @@ My goal is to grow professionally in IT Infrastructure, Linux System Administrat
     <a target= "_blank" href="https://www.facebook.com/profile.php?id=100006392266503" alt="Facebook"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/facebook_icon.png"></a>
     <a target= "_blank" href="https://hashnode.com/@yassine-bennkhay" alt="Hashnode"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/hashnode_icon.png"></a>
     <a target= "_blank" href="https://www.instagram.com/yassine_dev1/" alt="Instagram"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/Instagram_icon.png"></a>
-    <a target= "_blank" href="https://www.linkedin.com/in/yassine-bennkhay-0b73411b4/" alt="LinkedIn"><img height='45' src="https://github.com/yassine-bennkhay/yassine-bennkhay/blob/main/icons/linkedin_icon.png"></a>
+    <a target= "_blank" href="www.linkedin.com/in/brayan-ivan-yesca-velasco-80b249220" alt="LinkedIn"><img height='45' src="assets/banner/icons/in-white.png"></a>
   <a target= "_blank" href="https://forms.gle/LfgQdGNioDSJrrf68" alt="gmail"><img height='45' src="assets/banner/icons/gmail-logo-64px.png"></a>
   
     
