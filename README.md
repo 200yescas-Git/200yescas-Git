@@ -5,9 +5,9 @@
 
 <p> 
 
-I'm an IT Technician with a strong interest in IT Infrastructure, Linux System Administration, Automation, and Software Quality Assurance (QA).
+IT professional focused on Infrastructure, Linux, Cloud, Cybersecurity and Automation.
 
-I'm currently strengthening my technical skills through hands-on labs, technical projects, and professional documentation on GitHub to build practical experience and a solid technical portfolio.
+Building hands-on labs, technical documentation and practical projects to develop enterprise-oriented skills and continuous learning.
 
 ##  Areas of Focus
 
