@@ -12,7 +12,7 @@ I'm currently strengthening my technical skills through hands-on labs, technical
 ##  Areas of Focus
 
 -  Linux System Administration
--  Software Quality Assurance (QA)
+-  Cloud Computing
 -  Python Automation
 -  Databases (SQL, PostgreSQL, MySQL, and Oracle)
 -  Infrastructure and Networking
