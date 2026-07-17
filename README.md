@@ -9,18 +9,18 @@ I'm an IT Technician with a strong interest in IT Infrastructure, Linux System A
 
 I'm currently strengthening my technical skills through hands-on labs, technical projects, and professional documentation on GitHub to build practical experience and a solid technical portfolio.
 
-## 🚀 Areas of Focus
+##  Areas of Focus
 
-- 🐧 Linux System Administration
-- 🧪 Software Quality Assurance (QA)
-- 🐍 Python Automation
-- 🗄️ Databases (SQL, PostgreSQL, MySQL, and Oracle)
-- 🌐 Infrastructure and Networking
-- 🪟 Microsoft Technologies & Active Directory
-- 🔐 Cybersecurity
-- ⚙️ DevOps (learning path)
+-  Linux System Administration
+-  Software Quality Assurance (QA)
+-  Python Automation
+-  Databases (SQL, PostgreSQL, MySQL, and Oracle)
+-  Infrastructure and Networking
+-  Microsoft Technologies & Active Directory
+-  Cybersecurity
+-  DevOps (learning path)
 
-## 🎯 Professional Goal
+##  Professional Goal
 
 My goal is to grow professionally in IT Infrastructure, Linux System Administration, and Automation while continuously expanding my knowledge in DevOps, Cloud, and Cybersecurity through hands-on practice, continuous learning, and well-documented technical projects.
 
